@@ -23,7 +23,7 @@
 :beijing = "{2008}"
 :london = "{2012}"
 
-puts ""
+
 
 
 
