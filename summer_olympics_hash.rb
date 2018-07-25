@@ -17,11 +17,13 @@
 #   # into uppercased Strings, creates a new array with these values, and then puts each upcase key in the CLI
 # end
 
-:atlanta = "{1996}"
-:sydney = "{2000}"
-:athens = "{2004}"
-:beijing = "{2008}"
-:london = "{2012}"
+:atlanta = "[1996]"
+:sydney = "[2000]"
+:athens = "[2004]"
+:beijing = "[2008]"
+:london = "[2012]"
+
+atlanta.en
 
 
 
