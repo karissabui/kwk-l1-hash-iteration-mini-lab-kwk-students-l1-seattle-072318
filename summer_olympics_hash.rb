@@ -23,8 +23,8 @@
 :beijing = "[2008]"
 :london = "[2012]"
 
-atlanta.each do |x|
-  sydney
+sydney.each do |x|
+  
   
 end
 
