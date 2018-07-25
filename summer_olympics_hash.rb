@@ -23,8 +23,9 @@
 :beijing = "[2008]"
 :london = "[2012]"
 
-atlanta.each do 
-  puts "#{
+atlanta.each do |x|
+  
+  
 end
 
 
