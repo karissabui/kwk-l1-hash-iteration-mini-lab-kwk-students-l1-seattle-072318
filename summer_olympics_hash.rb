@@ -24,7 +24,7 @@
 :london = "[2012]"
 
 atlanta.each do |x|
-  
+  sydney
   
 end
 
